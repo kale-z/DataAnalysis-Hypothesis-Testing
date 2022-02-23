@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Project [ 3 ]
+# Data Analysis - Hypothesis Testing
 In this project, I have used the dataset (```data.csv```), to examin a case study finding a correlation between students' academic performance and social media. This dataset contains students' gender, ages, the spent time on social media, and their Grage Point Average (GPA). The goal of this project is to apply the hypothesis testing methodology and check whether time spent on social media, gender and age affect the students' GPA or not.
 
 
